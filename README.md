@@ -24,7 +24,7 @@ Os exercícios aqui presentes foram pensados para:
 ## Instruções de Uso
 1. Faça o **clone** do repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/AbnerSCunha/exercicios_IA.git
    ```
 
 2. Navegue até a pasta desejada e siga as instruções no arquivo `README.md` localizado em cada diretório.
