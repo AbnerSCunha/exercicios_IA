@@ -1,4 +1,4 @@
-# Exercícios de Preparação para Vaga de Estágio em Inteligência Artificial
+# Exercícios de Preparação em Inteligência Artificial
 
 Este repositório contém exercícios práticos para desenvolver e aprimorar habilidades técnicas relacionadas ao uso de Python, bibliotecas científicas, aprendizado de máquina, e ferramentas de controle de versão como Git e GitHub. 
 
